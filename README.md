@@ -11,4 +11,4 @@ ADMISSIONS DETERMINATION DATA SET
 this regression problem entails the prospects of a student getting admission into any college of his/her choice
 
 
-# [SYNTHANIC](https://github.com/E-wave112/ml_proj_2/blob/master/admissionprob.ipynb)
+# [SYNTHATANIC](https://github.com/E-wave112/ml_proj_2/blob/master/synthatanic.ipynb)
