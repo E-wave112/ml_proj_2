@@ -1,6 +1,6 @@
-#SUPERVISED MACHINE LEARNING PROBLEMS AND ARTIFICIAL INTELLIGENCE PROBLEMS 2
+# SUPERVISED MACHINE LEARNING PROBLEMS AND ARTIFICIAL INTELLIGENCE PROBLEMS 2
 
- **Check out my first repository [here](https://github.com/E-wave112/ml_proj1)
+ *** Check out my first repository [here](https://github.com/E-wave112/ml_proj1)
 
 # [placementtask](https://github.com/E-wave112/ml_proj_2/blob/master/placementtask.ipynb)
 A classification problem that is aimed at predicting whether a graduate candidate will get employed or not due to some statutory methods
