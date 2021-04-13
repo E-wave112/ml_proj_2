@@ -12,4 +12,4 @@ this regression problem entails the prospects of a student getting admission int
 
 
 # [SYNTHATANIC](https://github.com/E-wave112/ml_proj_2/blob/master/synthatanic.ipynb)
-Sample notebooks related to the synthatic kaggle hackathon
+Sample notebooks related to the [synthatic kaggle hackathon](https://www.kaggle.com/c/tabular-playground-series-apr-2021)
