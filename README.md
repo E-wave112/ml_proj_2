@@ -15,3 +15,5 @@ this regression problem entails the prospects of a student getting admission int
 
 # [SYNTHANIC](https://github.com/E-wave112/ml_proj_2/blob/master/synthatanic.ipynb)
 Sample notebooks related to the [synthanic kaggle hackathon](https://www.kaggle.com/c/tabular-playground-series-apr-2021)
+
+# [AIRQO]()
