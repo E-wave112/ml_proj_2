@@ -16,4 +16,5 @@ this regression problem entails the prospects of a student getting admission int
 # [SYNTHANIC](https://github.com/E-wave112/ml_proj_2/blob/master/synthatanic.ipynb)
 Sample notebooks related to the [synthanic kaggle hackathon](https://www.kaggle.com/c/tabular-playground-series-apr-2021)
 
-# [AIRQO]()
+# [AirQo](https://github.com/E-wave112/ml_proj_2/blob/master/air_first.ipynb)
+Starter notebook  for the Low-Cost Air Quality Monitor Calibration Challenge hosted on [Zindi](https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge)
