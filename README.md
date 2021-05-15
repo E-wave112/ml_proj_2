@@ -22,5 +22,5 @@ Starter notebook  for the Low-Cost Air Quality Monitor Calibration Challenge hos
 # [PyCaretQo](https://github.com/E-wave112/ml_proj_2/blob/master/air_quality_2.ipynb)
 [Pycaret](https://pycaret.readthedocs.io/en/latest/index.html) simulation  notebook  for the Low-Cost Air Quality Monitor Calibration Challenge hosted on [zindi](https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge)
 
-# [Fake_News_Model](https://github.com/E-wave112/ml_proj_2/blob/master/fake_news_model.ipynb)
+# [Fake_News_Model](https://github.com/E-wave112/ml_proj_2/blob/master/fake_news_models.ipynb)
 A trained nlp model for classifying a fake news from a genuine one
