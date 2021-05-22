@@ -27,3 +27,4 @@ A trained nlp model for classifying a fake news from a genuine one
 
 # [Super Store Analysis](https://github.com/E-wave112/ml_proj_2/blob/master/ustacky.ipynb) 
 A mini Data science project courtesy of the [Ustacky MicroDegree Scholarship](https://ustacky.com/)
+check out the project overview, metadata and summary [here](https://gist.github.com/E-wave112/0fdf4eb2abfe4fa0c39bd7a889d7e47c)
