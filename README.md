@@ -24,3 +24,6 @@ Starter notebook  for the Low-Cost Air Quality Monitor Calibration Challenge hos
 
 # [Fake_News_Model](https://github.com/E-wave112/ml_proj_2/blob/master/fake_news_models.ipynb)
 A trained nlp model for classifying a fake news from a genuine one
+
+# [Super Store Analysis](https://github.com/E-wave112/ml_proj_2/blob/master/ustacky.ipynb) 
+A mini Data science project courtesy of the [Ustacky MicroDegree Scholarship](https://ustacky.com/)
